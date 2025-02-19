@@ -1,0 +1,15 @@
+To do list:
+- [x] Add a navbar
+- [x] Add a login page
+- [x] Add a register page
+- [ ] Add a dashboard page
+- [ ] Add a profile page
+- [ ] Add a logout page
+- [ ] Create a custom Input component
+- [ ] Create a custom Button component
+- [ ] Create a  Alert component
+- [ ] Create a  Loading component
+- [ ] Create a  Modal component   
+- [ ] Create a  Search component
+- [ ] Create a  Select component
+

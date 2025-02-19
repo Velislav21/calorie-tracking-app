@@ -1,6 +1,8 @@
-import Navbar from './components/navigation/Navbar'
 import { Routes, Route } from 'react-router-dom'
+
+import Navbar from './components/navigation/Navbar'
 import Login from './components/login/Login'
+import Register from './components/register/Register'
 import './reset.css'
 
 function App() {
@@ -12,7 +14,7 @@ function App() {
         {/* <Route path="/about" element={<About />} /> */}
         {/* <Route path="/create" element={<Create />} /> */}
         <Route path="/login" element={<Login />} />
-        {/* <Route path="/register" element={<Register />} /> */}
+        <Route path="/register" element={<Register />} />
       </Routes>
     </>
   )
